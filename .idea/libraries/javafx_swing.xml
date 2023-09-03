@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="javafx.swing">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/VirtualPiano/libs/javafx.swing.jar!/" />
+      <root url="jar://$PROJECT_DIR$/VirtualPiano/libs/jfoenix-9.0.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/VirtualPiano/libs/toolbox-17.0.35.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
